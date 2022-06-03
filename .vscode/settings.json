@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "visual studio cout"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

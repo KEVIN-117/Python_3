@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Example1",
+            "request": "launch",
+            "mainClass": "Example1",
+            "projectName": "kevin117_7fbb15d"
+        },
+        {
+            "type": "java",
+            "name": "Launch operaciones",
+            "request": "launch",
+            "mainClass": "nuevo.operaciones",
+            "projectName": "kevin117_7fbb15d"
+        },
+        {
+            "name": "Python: Archivo actual",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
